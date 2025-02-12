@@ -13,4 +13,6 @@ Using the analysis, one can get a highlight of aircraft make that are more susce
 
 This assignment is in response to phase one project of the data science course at Moringa School. Trying to practice and do everything we have been taught is exiting and being able to appreciate the strides made from being completely oblivious of this to an informed student is something i take with gratitude. However, the project has truly challenged me and given me a new push to polish and revisit what we have learnt, but moreso to keep learning. 
 
+The dashboard link to my tableau dashboard: https://public.tableau.com/app/profile/margaret.njoroge/viz/MargaretPhase1project/Dashboard1
+
 Let`s keep coding!
