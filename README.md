@@ -11,3 +11,4 @@ Some recommendation for future analysis would be availability of spatial data wh
 Another key aspect is the inclusion of pilot errors and contributions to airplane accidents. That would also inform their training programs
 Using the analysis, one can get a highlight of aircraft make that are more susceptible to accidents and thus have a targeted evaluation to see if it is mechanical oriented
 
+This assignment is in response to phase one project of the data science course at Moringa School. Trying to practice and do everything we have been taught is exiting and being able to appreciate the strides made from being completely oblivious of this to an informed student is something i take with gratitude. The project has also challenged me and given me a new push to polish and revisit what we have learnt, but moreso to keep learning. 
